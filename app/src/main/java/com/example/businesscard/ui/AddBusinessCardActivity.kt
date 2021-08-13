@@ -37,7 +37,7 @@ class AddBusinessCardActivity : AppCompatActivity() {
                     backgroundColor = binding.tilColor.editText?.text.toString()
             )
             mainViewModel.insert(businessCard)
-            Toast.makeText(this, R.string.label_show_sucess, Toast.LENGTH_SHORT).show()
+            Toast.makeText(this, R.string.label_show_success, Toast.LENGTH_SHORT).show()
             finish()
         }
     }

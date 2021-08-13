@@ -9,5 +9,6 @@
     <string name="label_company_name">Nome da Empresa</string>
     <string name="label_color">Cor</string>
     <string name="label_confirm">Confirmar</string>
-    <string name="label_show_sucess">Cadastrado com Sucesso</string>
+    <string name="label_show_success">Cadastrado com Sucesso</string>
+    <string name="label_share">Compartilhar</string>
 </resources>
