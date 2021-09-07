@@ -13,11 +13,11 @@ import android.util.Log
 import android.view.View
 import android.widget.Toast
 import androidx.core.content.FileProvider.getUriForFile
+
 import com.example.businesscard.R
 import java.io.File
 import java.io.FileOutputStream
 import java.io.OutputStream
-import java.lang.Exception
 
 class Image {
 

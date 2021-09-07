@@ -12,7 +12,7 @@
         android:checkable="true"
         android:clickable="true"
         app:cardCornerRadius="16dp"
-        app:cardElevation="8dp"
+        android:elevation="18dp"
         android:layout_margin="16dp"
         app:layout_constraintDimensionRatio="16:9"
         app:layout_constraintTop_toTopOf="parent"
@@ -22,7 +22,6 @@
         android:focusable="true">
 
         <androidx.constraintlayout.widget.ConstraintLayout
-            android:id="@+id/content_card"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_margin="16dp">
